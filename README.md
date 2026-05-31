@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SukanshiGarg/Coding-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SukanshiGarg/Coding-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/SukanshiGarg/Coding-/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -40,19 +41,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SukanshiGarg/Coding-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SukanshiGarg/Coding-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SukanshiGarg/Coding-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SukanshiGarg/Coding-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SukanshiGarg/Coding-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SukanshiGarg/Coding-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SukanshiGarg/Coding-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SukanshiGarg/Coding-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SukanshiGarg/Coding-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/SukanshiGarg/Coding-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SukanshiGarg/Coding-/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
