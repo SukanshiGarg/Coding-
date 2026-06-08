@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SukanshiGarg/Coding-/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/SukanshiGarg/Coding-/tree/master/0383-ransom-note) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SukanshiGarg/Coding-/tree/master/0118-pascals-triangle) |
 | [0739-daily-temperatures](https://github.com/SukanshiGarg/Coding-/tree/master/0739-daily-temperatures) |
