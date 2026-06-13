@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SukanshiGarg/Coding-/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SukanshiGarg/Coding-/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/SukanshiGarg/Coding-/tree/master/0739-daily-temperatures) |
+| [1480-running-sum-of-1d-array](https://github.com/SukanshiGarg/Coding-/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/SukanshiGarg/Coding-/tree/master/1672-richest-customer-wealth) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2643-row-with-maximum-ones](https://github.com/SukanshiGarg/Coding-/tree/master/2643-row-with-maximum-ones) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/SukanshiGarg/Coding-/tree/master/1480-running-sum-of-1d-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Sliding Window
 |  |
