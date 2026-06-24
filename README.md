@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SukanshiGarg/Coding-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SukanshiGarg/Coding-/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SukanshiGarg/Coding-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/SukanshiGarg/Coding-/tree/master/0118-pascals-triangle) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SukanshiGarg/Coding-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SukanshiGarg/Coding-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SukanshiGarg/Coding-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SukanshiGarg/Coding-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SukanshiGarg/Coding-/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0283-move-zeroes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
