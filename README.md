@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SukanshiGarg/Coding-/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SukanshiGarg/Coding-/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SukanshiGarg/Coding-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/SukanshiGarg/Coding-/tree/master/0739-daily-temperatures) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SukanshiGarg/Coding-/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/SukanshiGarg/Coding-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SukanshiGarg/Coding-/tree/master/1732-find-the-highest-altitude) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SukanshiGarg/Coding-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [2401-longest-nice-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SukanshiGarg/Coding-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
