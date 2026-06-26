@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/SukanshiGarg/Coding-/tree/master/1711-count-good-meals) |
 | [1732-find-the-highest-altitude](https://github.com/SukanshiGarg/Coding-/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/SukanshiGarg/Coding-/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1980-find-unique-binary-string](https://github.com/SukanshiGarg/Coding-/tree/master/1980-find-unique-binary-string) |
 | [2401-longest-nice-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SukanshiGarg/Coding-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -134,18 +135,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SukanshiGarg/Coding-/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/SukanshiGarg/Coding-/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SukanshiGarg/Coding-/tree/master/0018-4sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/SukanshiGarg/Coding-/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SukanshiGarg/Coding-/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/SukanshiGarg/Coding-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SukanshiGarg/Coding-/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/SukanshiGarg/Coding-/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Sliding Window
@@ -186,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SukanshiGarg/Coding-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2401-longest-nice-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SukanshiGarg/Coding-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
