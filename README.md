@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/SukanshiGarg/Coding-/tree/master/0263-ugly-number) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SukanshiGarg/Coding-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SukanshiGarg/Coding-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/SukanshiGarg/Coding-/tree/master/1389-create-target-array-in-the-given-order) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SukanshiGarg/Coding-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Counting Sort
 |  |
 | ------- |
