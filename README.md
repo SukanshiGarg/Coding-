@@ -222,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/SukanshiGarg/Coding-/tree/master/0933-number-of-recent-calls) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/SukanshiGarg/Coding-/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
