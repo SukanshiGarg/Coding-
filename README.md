@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/SukanshiGarg/Coding-/tree/master/2643-row-with-maximum-ones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SukanshiGarg/Coding-/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SukanshiGarg/Coding-/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/SukanshiGarg/Coding-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SukanshiGarg/Coding-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
