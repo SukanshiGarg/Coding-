@@ -1,13 +1,18 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-    int count =0;
-    for(int i=0;i<nums.length;i++){
-        if(nums[i]<k){
-            count++;
+    PriorityQueue<Integer> pq = new PriorityQueue<>();
+        for(int num :nums){
+            pq.offer(num);
         }
-    }
-    return count;
+       int count=0;
 
+       while(!pq.isEmpty() && pq.peek()<k){
+         pq.poll();
+         count++;
+
+       }
+
+       return count;
 
     }
 }
