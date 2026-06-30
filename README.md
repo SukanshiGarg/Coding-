@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [1711-count-good-meals](https://github.com/SukanshiGarg/Coding-/tree/master/1711-count-good-meals) |
 | [1980-find-unique-binary-string](https://github.com/SukanshiGarg/Coding-/tree/master/1980-find-unique-binary-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/SukanshiGarg/Coding-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SukanshiGarg/Coding-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2716-minimize-string-length](https://github.com/SukanshiGarg/Coding-/tree/master/2716-minimize-string-length) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SukanshiGarg/Coding-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/SukanshiGarg/Coding-/tree/master/1980-find-unique-binary-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/SukanshiGarg/Coding-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2716-minimize-string-length](https://github.com/SukanshiGarg/Coding-/tree/master/2716-minimize-string-length) |
 ## Counting
 |  |
