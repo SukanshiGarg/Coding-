@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/SukanshiGarg/Coding-/tree/master/1046-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SukanshiGarg/Coding-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SukanshiGarg/Coding-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SukanshiGarg/Coding-/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SukanshiGarg/Coding-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/SukanshiGarg/Coding-/tree/master/1470-shuffle-the-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/SukanshiGarg/Coding-/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/SukanshiGarg/Coding-/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/SukanshiGarg/Coding-/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
