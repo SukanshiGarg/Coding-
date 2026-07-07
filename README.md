@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SukanshiGarg/Coding-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/SukanshiGarg/Coding-/tree/master/1980-find-unique-binary-string) |
 | [2401-longest-nice-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/2401-longest-nice-subarray) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SukanshiGarg/Coding-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SukanshiGarg/Coding-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/SukanshiGarg/Coding-/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SukanshiGarg/Coding-/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SukanshiGarg/Coding-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/SukanshiGarg/Coding-/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SukanshiGarg/Coding-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SukanshiGarg/Coding-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SukanshiGarg/Coding-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/SukanshiGarg/Coding-/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SukanshiGarg/Coding-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/SukanshiGarg/Coding-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
