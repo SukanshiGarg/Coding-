@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SukanshiGarg/Coding-/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SukanshiGarg/Coding-/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -290,10 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SukanshiGarg/Coding-/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/SukanshiGarg/Coding-/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SukanshiGarg/Coding-/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/SukanshiGarg/Coding-/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
