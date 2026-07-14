@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SukanshiGarg/Coding-/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/SukanshiGarg/Coding-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SukanshiGarg/Coding-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/SukanshiGarg/Coding-/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/SukanshiGarg/Coding-/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/SukanshiGarg/Coding-/tree/master/0860-lemonade-change) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SukanshiGarg/Coding-/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/SukanshiGarg/Coding-/tree/master/0263-ugly-number) |
+| [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/SukanshiGarg/Coding-/tree/master/2063-vowels-of-all-substrings) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SukanshiGarg/Coding-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SukanshiGarg/Coding-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SukanshiGarg/Coding-/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SukanshiGarg/Coding-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
