@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SukanshiGarg/Coding-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SukanshiGarg/Coding-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/SukanshiGarg/Coding-/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SukanshiGarg/Coding-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SukanshiGarg/Coding-/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SukanshiGarg/Coding-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SukanshiGarg/Coding-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
