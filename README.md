@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SukanshiGarg/Coding-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/SukanshiGarg/Coding-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SukanshiGarg/Coding-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SukanshiGarg/Coding-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/SukanshiGarg/Coding-/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SukanshiGarg/Coding-/tree/master/0992-subarrays-with-k-different-integers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SukanshiGarg/Coding-/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Array
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SukanshiGarg/Coding-/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/SukanshiGarg/Coding-/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SukanshiGarg/Coding-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/SukanshiGarg/Coding-/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SukanshiGarg/Coding-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SukanshiGarg/Coding-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SukanshiGarg/Coding-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SukanshiGarg/Coding-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SukanshiGarg/Coding-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
