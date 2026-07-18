@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SukanshiGarg/Coding-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SukanshiGarg/Coding-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/SukanshiGarg/Coding-/tree/master/1980-find-unique-binary-string) |
+| [2028-find-missing-observations](https://github.com/SukanshiGarg/Coding-/tree/master/2028-find-missing-observations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SukanshiGarg/Coding-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SukanshiGarg/Coding-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2401-longest-nice-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/2401-longest-nice-subarray) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SukanshiGarg/Coding-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2028-find-missing-observations](https://github.com/SukanshiGarg/Coding-/tree/master/2028-find-missing-observations) |
 | [2063-vowels-of-all-substrings](https://github.com/SukanshiGarg/Coding-/tree/master/2063-vowels-of-all-substrings) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SukanshiGarg/Coding-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/SukanshiGarg/Coding-/tree/master/2413-smallest-even-multiple) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/SukanshiGarg/Coding-/tree/master/1389-create-target-array-in-the-given-order) |
+| [2028-find-missing-observations](https://github.com/SukanshiGarg/Coding-/tree/master/2028-find-missing-observations) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SukanshiGarg/Coding-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Counting Sort
