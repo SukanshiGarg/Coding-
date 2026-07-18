@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SukanshiGarg/Coding-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/SukanshiGarg/Coding-/tree/master/2063-vowels-of-all-substrings) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SukanshiGarg/Coding-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2413-smallest-even-multiple](https://github.com/SukanshiGarg/Coding-/tree/master/2413-smallest-even-multiple) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SukanshiGarg/Coding-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/SukanshiGarg/Coding-/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -374,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SukanshiGarg/Coding-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/SukanshiGarg/Coding-/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
