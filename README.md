@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1328-break-a-palindrome](https://github.com/SukanshiGarg/Coding-/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SukanshiGarg/Coding-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/SukanshiGarg/Coding-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SukanshiGarg/Coding-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SukanshiGarg/Coding-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/SukanshiGarg/Coding-/tree/master/1980-find-unique-binary-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SukanshiGarg/Coding-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/SukanshiGarg/Coding-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SukanshiGarg/Coding-/tree/master/1480-running-sum-of-1d-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/SukanshiGarg/Coding-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1672-richest-customer-wealth](https://github.com/SukanshiGarg/Coding-/tree/master/1672-richest-customer-wealth) |
 | [1711-count-good-meals](https://github.com/SukanshiGarg/Coding-/tree/master/1711-count-good-meals) |
 | [1732-find-the-highest-altitude](https://github.com/SukanshiGarg/Coding-/tree/master/1732-find-the-highest-altitude) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/SukanshiGarg/Coding-/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/SukanshiGarg/Coding-/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/SukanshiGarg/Coding-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SukanshiGarg/Coding-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/SukanshiGarg/Coding-/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SukanshiGarg/Coding-/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/SukanshiGarg/Coding-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/0152-maximum-product-subarray) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/SukanshiGarg/Coding-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2063-vowels-of-all-substrings](https://github.com/SukanshiGarg/Coding-/tree/master/2063-vowels-of-all-substrings) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Union-Find
