@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SukanshiGarg/Coding-/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/SukanshiGarg/Coding-/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SukanshiGarg/Coding-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/SukanshiGarg/Coding-/tree/master/1046-last-stone-weight) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SukanshiGarg/Coding-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SukanshiGarg/Coding-/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SukanshiGarg/Coding-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SukanshiGarg/Coding-/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SukanshiGarg/Coding-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/SukanshiGarg/Coding-/tree/master/1833-maximum-ice-cream-bars) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/SukanshiGarg/Coding-/tree/master/0506-relative-ranks) |
+| [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SukanshiGarg/Coding-/tree/master/1331-rank-transform-of-an-array) |
