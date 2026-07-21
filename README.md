@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SukanshiGarg/Coding-/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1328-break-a-palindrome](https://github.com/SukanshiGarg/Coding-/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SukanshiGarg/Coding-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SukanshiGarg/Coding-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SukanshiGarg/Coding-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/SukanshiGarg/Coding-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/SukanshiGarg/Coding-/tree/master/1328-break-a-palindrome) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SukanshiGarg/Coding-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/SukanshiGarg/Coding-/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
