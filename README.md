@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SukanshiGarg/Coding-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SukanshiGarg/Coding-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/SukanshiGarg/Coding-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/SukanshiGarg/Coding-/tree/master/0118-pascals-triangle) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SukanshiGarg/Coding-/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/SukanshiGarg/Coding-/tree/master/0506-relative-ranks) |
