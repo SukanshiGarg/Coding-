@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/SukanshiGarg/Coding-/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SukanshiGarg/Coding-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SukanshiGarg/Coding-/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/SukanshiGarg/Coding-/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SukanshiGarg/Coding-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SukanshiGarg/Coding-/tree/master/0860-lemonade-change) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SukanshiGarg/Coding-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SukanshiGarg/Coding-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/SukanshiGarg/Coding-/tree/master/0506-relative-ranks) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SukanshiGarg/Coding-/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/SukanshiGarg/Coding-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0435-non-overlapping-intervals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SukanshiGarg/Coding-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2063-vowels-of-all-substrings](https://github.com/SukanshiGarg/Coding-/tree/master/2063-vowels-of-all-substrings) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
