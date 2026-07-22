@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SukanshiGarg/Coding-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/SukanshiGarg/Coding-/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/SukanshiGarg/Coding-/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/SukanshiGarg/Coding-/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/1288-remove-covered-intervals) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SukanshiGarg/Coding-/tree/master/0506-relative-ranks) |
 | [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
+| [1094-car-pooling](https://github.com/SukanshiGarg/Coding-/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SukanshiGarg/Coding-/tree/master/1331-rank-transform-of-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SukanshiGarg/Coding-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1094-car-pooling](https://github.com/SukanshiGarg/Coding-/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/SukanshiGarg/Coding-/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SukanshiGarg/Coding-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/SukanshiGarg/Coding-/tree/master/1094-car-pooling) |
 | [1389-create-target-array-in-the-given-order](https://github.com/SukanshiGarg/Coding-/tree/master/1389-create-target-array-in-the-given-order) |
 | [2028-find-missing-observations](https://github.com/SukanshiGarg/Coding-/tree/master/2028-find-missing-observations) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/SukanshiGarg/Coding-/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SukanshiGarg/Coding-/tree/master/0506-relative-ranks) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/SukanshiGarg/Coding-/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/SukanshiGarg/Coding-/tree/master/1094-car-pooling) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Design
 |  |
