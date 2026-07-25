@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/SukanshiGarg/Coding-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SukanshiGarg/Coding-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SukanshiGarg/Coding-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SukanshiGarg/Coding-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/SukanshiGarg/Coding-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SukanshiGarg/Coding-/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SukanshiGarg/Coding-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SukanshiGarg/Coding-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/SukanshiGarg/Coding-/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SukanshiGarg/Coding-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/SukanshiGarg/Coding-/tree/master/0260-single-number-iii) |
 | [2401-longest-nice-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/2401-longest-nice-subarray) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SukanshiGarg/Coding-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Prefix Sum
 |  |
 | ------- |
