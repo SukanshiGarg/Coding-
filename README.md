@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SukanshiGarg/Coding-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/SukanshiGarg/Coding-/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/SukanshiGarg/Coding-/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/SukanshiGarg/Coding-/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SukanshiGarg/Coding-/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SukanshiGarg/Coding-/tree/master/0646-maximum-length-of-pair-chain) |
+| [0746-min-cost-climbing-stairs](https://github.com/SukanshiGarg/Coding-/tree/master/0746-min-cost-climbing-stairs) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SukanshiGarg/Coding-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2063-vowels-of-all-substrings](https://github.com/SukanshiGarg/Coding-/tree/master/2063-vowels-of-all-substrings) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
