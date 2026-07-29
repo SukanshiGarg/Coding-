@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SukanshiGarg/Coding-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SukanshiGarg/Coding-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SukanshiGarg/Coding-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SukanshiGarg/Coding-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0073-set-matrix-zeroes) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SukanshiGarg/Coding-/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SukanshiGarg/Coding-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SukanshiGarg/Coding-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SukanshiGarg/Coding-/tree/master/0118-pascals-triangle) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Enumeration
 |  |
