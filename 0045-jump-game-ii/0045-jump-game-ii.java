@@ -1,16 +1,28 @@
 class Solution {
     public int jump(int[] nums) {
-        int dp[] = new int[nums.length];
-        Arrays.fill(dp, Integer.MAX_VALUE);
+        //greedy solution
+        int totaljumps=0;
+        int coverage=0;
+        int lastIndex=0;
+        int destination = nums.length-1;
+        
+        //base condition 
+        if(nums.length == 1) return 0;
+        for(int i=0;i<nums.length;i++){
+            coverage = Math.max(coverage,i+nums[i]);
 
-        dp[nums.length-1]=0;
-        for(int i=nums.length-2;i>=0;i--){
-            for(int j=0;j<=nums[i] && i+j<nums.length;j++){
-                if(dp[i+j] != Integer.MAX_VALUE){
-                    dp[i]=Math.min(dp[i],1+ dp[i+j]);
-                }
+            if(i==lastIndex){
+                lastIndex=coverage;
+                totaljumps++;
+            
+            
+            if(coverage>=destination){
+                return totaljumps;
             }
         }
-        return dp[0];
+    }
+
+         return totaljumps;
+
     }
 }
