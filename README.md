@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SukanshiGarg/Coding-/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/SukanshiGarg/Coding-/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0877-stone-game](https://github.com/SukanshiGarg/Coding-/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SukanshiGarg/Coding-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/SukanshiGarg/Coding-/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/SukanshiGarg/Coding-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/SukanshiGarg/Coding-/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/SukanshiGarg/Coding-/tree/master/0991-broken-calculator) |
 | [1137-n-th-tribonacci-number](https://github.com/SukanshiGarg/Coding-/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SukanshiGarg/Coding-/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SukanshiGarg/Coding-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/SukanshiGarg/Coding-/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/SukanshiGarg/Coding-/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SukanshiGarg/Coding-/tree/master/1137-n-th-tribonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SukanshiGarg/Coding-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2063-vowels-of-all-substrings](https://github.com/SukanshiGarg/Coding-/tree/master/2063-vowels-of-all-substrings) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SukanshiGarg/Coding-/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/SukanshiGarg/Coding-/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SukanshiGarg/Coding-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Number Theory
 |  |
@@ -483,4 +487,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SukanshiGarg/Coding-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SukanshiGarg/Coding-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SukanshiGarg/Coding-/tree/master/1137-n-th-tribonacci-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SukanshiGarg/Coding-/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SukanshiGarg/Coding-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
