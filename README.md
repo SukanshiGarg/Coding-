@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/SukanshiGarg/Coding-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SukanshiGarg/Coding-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3731-find-missing-elements](https://github.com/SukanshiGarg/Coding-/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SukanshiGarg/Coding-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SukanshiGarg/Coding-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/SukanshiGarg/Coding-/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SukanshiGarg/Coding-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SukanshiGarg/Coding-/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/SukanshiGarg/Coding-/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
