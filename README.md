@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SukanshiGarg/Coding-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SukanshiGarg/Coding-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/SukanshiGarg/Coding-/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/SukanshiGarg/Coding-/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/SukanshiGarg/Coding-/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SukanshiGarg/Coding-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/SukanshiGarg/Coding-/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/SukanshiGarg/Coding-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SukanshiGarg/Coding-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SukanshiGarg/Coding-/tree/master/0027-remove-element) |
@@ -514,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/SukanshiGarg/Coding-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SukanshiGarg/Coding-/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SukanshiGarg/Coding-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
