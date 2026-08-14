@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SukanshiGarg/Coding-/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/SukanshiGarg/Coding-/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/SukanshiGarg/Coding-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/SukanshiGarg/Coding-/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/SukanshiGarg/Coding-/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/SukanshiGarg/Coding-/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
