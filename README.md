@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/SukanshiGarg/Coding-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SukanshiGarg/Coding-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SukanshiGarg/Coding-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SukanshiGarg/Coding-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3731-find-missing-elements](https://github.com/SukanshiGarg/Coding-/tree/master/3731-find-missing-elements) |
 ## String
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SukanshiGarg/Coding-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SukanshiGarg/Coding-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SukanshiGarg/Coding-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SukanshiGarg/Coding-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SukanshiGarg/Coding-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SukanshiGarg/Coding-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
