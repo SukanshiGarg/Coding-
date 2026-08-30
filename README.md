@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/SukanshiGarg/Coding-/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/SukanshiGarg/Coding-/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SukanshiGarg/Coding-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/SukanshiGarg/Coding-/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/SukanshiGarg/Coding-/tree/master/0746-min-cost-climbing-stairs) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SukanshiGarg/Coding-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/SukanshiGarg/Coding-/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SukanshiGarg/Coding-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/1248-count-number-of-nice-subarrays) |
