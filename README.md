@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/SukanshiGarg/Coding-/tree/master/2063-vowels-of-all-substrings) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SukanshiGarg/Coding-/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2716-minimize-string-length](https://github.com/SukanshiGarg/Coding-/tree/master/2716-minimize-string-length) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SukanshiGarg/Coding-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SukanshiGarg/Coding-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SukanshiGarg/Coding-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SukanshiGarg/Coding-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SukanshiGarg/Coding-/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SukanshiGarg/Coding-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SukanshiGarg/Coding-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
