@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SukanshiGarg/Coding-/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SukanshiGarg/Coding-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SukanshiGarg/Coding-/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/SukanshiGarg/Coding-/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SukanshiGarg/Coding-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1328-break-a-palindrome](https://github.com/SukanshiGarg/Coding-/tree/master/1328-break-a-palindrome) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SukanshiGarg/Coding-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SukanshiGarg/Coding-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SukanshiGarg/Coding-/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/SukanshiGarg/Coding-/tree/master/0904-fruit-into-baskets) |
