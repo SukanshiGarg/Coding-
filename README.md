@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/SukanshiGarg/Coding-/tree/master/1980-find-unique-binary-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/SukanshiGarg/Coding-/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2063-vowels-of-all-substrings](https://github.com/SukanshiGarg/Coding-/tree/master/2063-vowels-of-all-substrings) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SukanshiGarg/Coding-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SukanshiGarg/Coding-/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2716-minimize-string-length](https://github.com/SukanshiGarg/Coding-/tree/master/2716-minimize-string-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SukanshiGarg/Coding-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SukanshiGarg/Coding-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SukanshiGarg/Coding-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SukanshiGarg/Coding-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2401-longest-nice-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SukanshiGarg/Coding-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SukanshiGarg/Coding-/tree/master/2760-longest-even-odd-subarray-with-threshold) |
