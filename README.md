@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/SukanshiGarg/Coding-/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/SukanshiGarg/Coding-/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/SukanshiGarg/Coding-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0435-non-overlapping-intervals) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SukanshiGarg/Coding-/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/SukanshiGarg/Coding-/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SukanshiGarg/Coding-/tree/master/0724-find-pivot-index) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SukanshiGarg/Coding-/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/SukanshiGarg/Coding-/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/SukanshiGarg/Coding-/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
