@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SukanshiGarg/Coding-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SukanshiGarg/Coding-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/SukanshiGarg/Coding-/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/SukanshiGarg/Coding-/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/SukanshiGarg/Coding-/tree/master/0991-broken-calculator) |
 | [1137-n-th-tribonacci-number](https://github.com/SukanshiGarg/Coding-/tree/master/1137-n-th-tribonacci-number) |
