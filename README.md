@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SukanshiGarg/Coding-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/SukanshiGarg/Coding-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SukanshiGarg/Coding-/tree/master/0904-fruit-into-baskets) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/SukanshiGarg/Coding-/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/SukanshiGarg/Coding-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SukanshiGarg/Coding-/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SukanshiGarg/Coding-/tree/master/0646-maximum-length-of-pair-chain) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SukanshiGarg/Coding-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SukanshiGarg/Coding-/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/SukanshiGarg/Coding-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukanshiGarg/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SukanshiGarg/Coding-/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SukanshiGarg/Coding-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
