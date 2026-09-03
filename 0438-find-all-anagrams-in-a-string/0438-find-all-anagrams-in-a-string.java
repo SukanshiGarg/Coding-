@@ -1,39 +1,37 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
+
         List<Integer> list = new ArrayList<>();
-        
-        int n1 = s.length();
-        int n2 = p.length();
 
-        if (n1 < n2) {
-            return list;
+        int freq1[] = new int[128];
+        int freq2[] = new int[128];
+
+        for (char ch : p.toCharArray()) {
+            freq1[ch - 'a']++;
         }
 
-        int freq1[] = new int[26];
-        int freq2[] = new int[26];
-
-        for(char ch: p.toCharArray()){
-            freq2[ch-'a']++;
-        }
-        
-        for(int i=0;i<n2;i++){
-            freq1[s.charAt(i)-'a']++;
+        for (int i = 0; i < p.length(); i++) {
+            char ch = s.charAt(i);
+            freq2[ch - 'a']++;
         }
 
-        if(Arrays.equals(freq1,freq2)){
+        if (Arrays.equals(freq1, freq2)) {
             list.add(0);
         }
 
-        for(int i=n2;i<n1;i++){
-           freq1[s.charAt(i)-'a']++; //add the current character
-           freq1[s.charAt(i-n2)-'a']--;//shrinking the window
+        for (int i = p.length(); i < s.length(); i++) {
 
-           if(Arrays.equals(freq1,freq2)){
-            list.add(i-n2+1);
-           }
+            // remove left character
+            freq2[s.charAt(i - p.length()) - 'a']--;
+
+            // add new right character
+            freq2[s.charAt(i) - 'a']++;
+
+            if (Arrays.equals(freq1, freq2)) {
+                list.add(i - p.length() + 1);
+            }
         }
 
         return list;
-
     }
 }
