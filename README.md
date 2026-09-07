@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SukanshiGarg/Coding-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/SukanshiGarg/Coding-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SukanshiGarg/Coding-/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/SukanshiGarg/Coding-/tree/master/0506-relative-ranks) |
