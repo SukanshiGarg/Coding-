@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SukanshiGarg/Coding-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/SukanshiGarg/Coding-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SukanshiGarg/Coding-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0219-contains-duplicate-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SukanshiGarg/Coding-/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/SukanshiGarg/Coding-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/SukanshiGarg/Coding-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/0567-permutation-in-string) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SukanshiGarg/Coding-/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SukanshiGarg/Coding-/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/SukanshiGarg/Coding-/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/SukanshiGarg/Coding-/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/SukanshiGarg/Coding-/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/SukanshiGarg/Coding-/tree/master/0486-predict-the-winner) |
