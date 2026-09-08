@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SukanshiGarg/Coding-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/SukanshiGarg/Coding-/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/SukanshiGarg/Coding-/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SukanshiGarg/Coding-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SukanshiGarg/Coding-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SukanshiGarg/Coding-/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/SukanshiGarg/Coding-/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/SukanshiGarg/Coding-/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SukanshiGarg/Coding-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/0567-permutation-in-string) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/SukanshiGarg/Coding-/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/SukanshiGarg/Coding-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SukanshiGarg/Coding-/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SukanshiGarg/Coding-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SukanshiGarg/Coding-/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/SukanshiGarg/Coding-/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/SukanshiGarg/Coding-/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SukanshiGarg/Coding-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2401-longest-nice-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/2401-longest-nice-subarray) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SukanshiGarg/Coding-/tree/master/2588-count-the-number-of-beautiful-subarrays) |
