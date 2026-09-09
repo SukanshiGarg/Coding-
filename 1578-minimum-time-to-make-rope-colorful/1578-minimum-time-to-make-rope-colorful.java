@@ -1,20 +1,13 @@
 class Solution {
     public int minCost(String s, int[] neededTime) {
-        int n=s.length();
-        int i=0;
-        int time=0;
-        for(int j=1;j<s.length();j++){
-            if(s.charAt(i)==s.charAt(j)){
-                time+=Math.min(neededTime[i],neededTime[j]);
-
-                if(neededTime[j]>neededTime[i]){
-                    i=j;
-                }
-            }
-            else{
-                i=j;
+        int ans = 0;
+        for(int i=1;i<s.length();i++){
+            if(s.charAt(i) == s.charAt(i-1)){
+                ans += Math.min(neededTime[i],neededTime[i-1]);
+                // Keep the expensive one
+                neededTime[i] = Math.max(neededTime[i], neededTime[i - 1]);
             }
         }
-        return time;
+        return ans;
     }
 }
