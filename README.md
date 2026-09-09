@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/SukanshiGarg/Coding-/tree/master/1980-find-unique-binary-string) |
 | [2028-find-missing-observations](https://github.com/SukanshiGarg/Coding-/tree/master/2028-find-missing-observations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SukanshiGarg/Coding-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/SukanshiGarg/Coding-/tree/master/2126-destroying-asteroids) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SukanshiGarg/Coding-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SukanshiGarg/Coding-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2401-longest-nice-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/2401-longest-nice-subarray) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SukanshiGarg/Coding-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SukanshiGarg/Coding-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/SukanshiGarg/Coding-/tree/master/2126-destroying-asteroids) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SukanshiGarg/Coding-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SukanshiGarg/Coding-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SukanshiGarg/Coding-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/SukanshiGarg/Coding-/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukanshiGarg/Coding-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SukanshiGarg/Coding-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2126-destroying-asteroids](https://github.com/SukanshiGarg/Coding-/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/SukanshiGarg/Coding-/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SukanshiGarg/Coding-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
