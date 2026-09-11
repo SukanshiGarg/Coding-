@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/SukanshiGarg/Coding-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SukanshiGarg/Coding-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SukanshiGarg/Coding-/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SukanshiGarg/Coding-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SukanshiGarg/Coding-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SukanshiGarg/Coding-/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/SukanshiGarg/Coding-/tree/master/1137-n-th-tribonacci-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SukanshiGarg/Coding-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2063-vowels-of-all-substrings](https://github.com/SukanshiGarg/Coding-/tree/master/2063-vowels-of-all-substrings) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SukanshiGarg/Coding-/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SukanshiGarg/Coding-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Union-Find
 |  |
