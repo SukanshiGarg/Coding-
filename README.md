@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SukanshiGarg/Coding-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/SukanshiGarg/Coding-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/SukanshiGarg/Coding-/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SukanshiGarg/Coding-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SukanshiGarg/Coding-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SukanshiGarg/Coding-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/SukanshiGarg/Coding-/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/SukanshiGarg/Coding-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SukanshiGarg/Coding-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SukanshiGarg/Coding-/tree/master/0455-assign-cookies) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SukanshiGarg/Coding-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SukanshiGarg/Coding-/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/SukanshiGarg/Coding-/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/SukanshiGarg/Coding-/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SukanshiGarg/Coding-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/SukanshiGarg/Coding-/tree/master/0389-find-the-difference) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/SukanshiGarg/Coding-/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Enumeration
 |  |
@@ -661,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SukanshiGarg/Coding-/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/SukanshiGarg/Coding-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
