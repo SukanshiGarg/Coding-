@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/SukanshiGarg/Coding-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SukanshiGarg/Coding-/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/SukanshiGarg/Coding-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/SukanshiGarg/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/SukanshiGarg/Coding-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0219-contains-duplicate-ii) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SukanshiGarg/Coding-/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukanshiGarg/Coding-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/SukanshiGarg/Coding-/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/SukanshiGarg/Coding-/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/SukanshiGarg/Coding-/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SukanshiGarg/Coding-/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/SukanshiGarg/Coding-/tree/master/0486-predict-the-winner) |
