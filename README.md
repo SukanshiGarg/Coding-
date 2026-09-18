@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SukanshiGarg/Coding-/tree/master/1208-get-equal-substrings-within-budget) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SukanshiGarg/Coding-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/SukanshiGarg/Coding-/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SukanshiGarg/Coding-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SukanshiGarg/Coding-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SukanshiGarg/Coding-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SukanshiGarg/Coding-/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SukanshiGarg/Coding-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SukanshiGarg/Coding-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SukanshiGarg/Coding-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SukanshiGarg/Coding-/tree/master/2206-divide-array-into-equal-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SukanshiGarg/Coding-/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SukanshiGarg/Coding-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/SukanshiGarg/Coding-/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/SukanshiGarg/Coding-/tree/master/0991-broken-calculator) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/SukanshiGarg/Coding-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/SukanshiGarg/Coding-/tree/master/1328-break-a-palindrome) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SukanshiGarg/Coding-/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/SukanshiGarg/Coding-/tree/master/1578-minimum-time-to-make-rope-colorful) |
