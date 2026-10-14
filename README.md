@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SukanshiGarg/Coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SukanshiGarg/Coding-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/SukanshiGarg/Coding-/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SukanshiGarg/Coding-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/SukanshiGarg/Coding-/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SukanshiGarg/Coding-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/SukanshiGarg/Coding-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SukanshiGarg/Coding-/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/SukanshiGarg/Coding-/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SukanshiGarg/Coding-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/SukanshiGarg/Coding-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Monotonic Stack
@@ -709,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SukanshiGarg/Coding-/tree/master/0300-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/SukanshiGarg/Coding-/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
